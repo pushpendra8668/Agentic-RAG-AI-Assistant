@@ -21,4 +21,4 @@ def load_pdf(file_path):
 
     print(f"Successfully loaded {len(documents)} pages.")
 
-    return documents
+return documents
