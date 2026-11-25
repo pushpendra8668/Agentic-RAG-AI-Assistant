@@ -147,3 +147,11 @@ if question:
 
                 except Exception as e:
                     st.error(f"Error: {e}")
+st.markdown(
+    """
+    <div style="text-align:center; color:gray; padding:15px;">
+        Created by <b>Pushpendra Maurya</b> | © 2026
+    </div>
+    """,
+    unsafe_allow_html=True
+)
