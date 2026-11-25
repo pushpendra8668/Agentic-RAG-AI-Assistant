@@ -1,0 +1,29 @@
+# Frontend
+streamlit
+
+# Environment
+python-dotenv
+
+# LangChain Framework
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-qdrant
+
+# AI Model
+langchain-nvidia-ai-endpoints
+
+# Vector Database
+qdrant-client
+fastembed
+
+# Document Processing
+pypdf
+
+# Search
+rank-bm25
+
+# Utilities
+pydantic
+requests
