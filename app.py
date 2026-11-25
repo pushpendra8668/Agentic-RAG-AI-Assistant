@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import tempfile
 import os
@@ -155,7 +155,7 @@ st.markdown(
     </div>
     """,
     unsafe_allow_html=True
-=======
+
 import streamlit as st
 import tempfile
 import os
@@ -312,5 +312,5 @@ st.markdown(
     </div>
     """,
     unsafe_allow_html=True
->>>>>>> e812e33c050e5c4a5bbc459e31c2729eef48d206
+
 )
